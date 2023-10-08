@@ -86,6 +86,6 @@ rm matep2.fastq.int_trimmed
 ![](https://github.com/prayforanya/hse23_hw1/blob/main/images/adapter_content.png)
 
 #### Для подрезанных чтений
-![](https://github.com/prayforanya/hse23_hw1/tree/blob/images/general_statistics_trimmed.png)
-![](https://github.com/prayforanya/hse23_hw1/tree/blob/images/per_sequence_quality_score_trimmed.png)
-![](https://github.com/prayforanya/hse23_hw1/tree/blob/images/adapter_content_trimmed.png)
+![](https://github.com/prayforanya/hse23_hw1/blob/main/images/general_statistics_trimmed.png)
+![](https://github.com/prayforanya/hse23_hw1/blob/main/images/per_sequence_quality_score_trimmed.png)
+![](https://github.com/prayforanya/hse23_hw1/blob/main/images/adapter_content_trimmed.png)
