@@ -66,7 +66,7 @@ platanus assemble -f sub1.fastq.trimmed sub2.fastq.trimmed 2>assemble.log
 ```bash
 platanus scaffold -c out_contig.fa -IP1 sub1.fastq.trimmed sub2.fastq.trimmed -OP2 matep1.fastq.int_trimmed matep2.fastq.int_trimmed 2> scaffold.log
 ```
-#### 11. Уменньшим кол-во гэпов, используя “platanus gap_close”
+#### 11. Уменьшим кол-во гэпов, используя “platanus gap_close”
 Чтобы не видеть в консоле большой вывод, сделаем вывод в gap_close.log
 ```bash
 platanus gap_close -c out_contig.fa -IP1 sub1.fastq.trimmed sub2.fastq.trimmed -OP2 matep1.fastq.int_trimmed matep2.fastq.int_trimmed 2> gap_close.log
