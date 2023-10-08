@@ -79,3 +79,13 @@ rm sub2.fastq.trimmed
 rm matep1.fastq.int_trimmed 
 rm matep2.fastq.int_trimmed
 ```
+## Отчёты multiQC
+#### Для исходных чтений
+![](https://github.com/prayforanya/hse23_hw1/tree/main/images/general_statistics.png)
+![](https://github.com/prayforanya/hse23_hw1/tree/main/images/per_sequence_quality_score.png)
+![](https://github.com/prayforanya/hse23_hw1/tree/main/images/adapter_content.png)
+
+#### Для подрезанных чтений
+![](https://github.com/prayforanya/hse23_hw1/tree/main/images/general_statistics_trimmed.png)
+![](https://github.com/prayforanya/hse23_hw1/tree/main/images/per_sequence_quality_score_trimmed.png)
+![](https://github.com/prayforanya/hse23_hw1/tree/main/images/adapter_content_trimmed.png)
